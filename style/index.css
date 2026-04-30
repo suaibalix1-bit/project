@@ -236,3 +236,52 @@ header{
     color:#001931;
 
 }
+
+#think-more{
+    width:100%;
+    max-width: 1360px;
+    margin:0 auto;
+    /* justify-content:center; */
+  
+}
+
+
+.think-container{
+      /* margin:0px 120px; */
+    /* align-items:center; */
+    text-align:center;  
+    background-color:#F7F6F2;
+    border-radius:12px; 
+}
+
+
+.think-container h2{
+    font-size:40px;
+    font-weight:bold;
+    color:#001931;
+    padding-top:80px;
+}
+
+.think-container .para-x{
+    font-size:16px;
+    line-height:24px;
+    color:#627382;
+    margin-top:16px;
+}
+
+
+.think-container button{
+    background-color:#469165;
+    padding:16px;
+    color:#FFFFFF;
+    border-radius:4px;
+    border:none;
+    margin-top:24px;
+}
+
+
+.think-container .para-y{
+    line-height:20px;
+    color:#627382;
+    margin-top:16px;
+}
