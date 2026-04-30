@@ -100,8 +100,8 @@ header{
 }
 
 .para-3{
-    margin-top: 32px;
-    /* margin-right:16px; */
+    padding: 32px 0px 179px 0px;
+    /* margin-bottom:179px; */
 }
 
 .para-3 .btn-1{
@@ -122,4 +122,52 @@ header{
     border:1px solid white;
     cursor:pointer;
 
+}
+
+
+#structure{
+    width:100%;
+    max-width:1360px;
+    padding-top:30px;
+    /* margin:0 auto; */
+    /* justify-content:center; */
+}
+
+
+.section-heading{
+    width:100%;
+    max-width:1360px;
+    margin:0 auto;
+    text-align: center;
+    
+}
+
+
+.section-heading h2{
+    font-size:48px;
+    font-weight:bold;
+
+}
+
+.section-heading p{
+    line-height:20px;
+    color:#627382;
+    margin-top:16px;
+}
+
+.card-section {
+    width:100%;
+    max-width:1360px;
+    margin:44px 120px;
+    display:flex;
+    /* justify-content:center; */
+    gap:24px;
+
+}
+
+
+.card-info{
+    border:2px solid red;
+    /* display:flex; */
+    text-align:center;
 }
